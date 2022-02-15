@@ -32,14 +32,30 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
-<hr></hr>
+---
 
 - I’m currently learning **Flutter & WebDev**. <img width="12%" align="right" alt="Github Image" src="https://github.com/ismail-cs/ismail-cs/blob/main/images/linux_rounded.gif?raw=true" /><br>
 - I like exploring **GNU/Linux**. <br>
 - Ask me about **Pc building, Movies, or anything**. <br>
 - Find me on Telegram: **[Ismail Khalil](https://t.me/ismail_cs)**<br>
 
-<hr></hr>
+---
+
+<!-- GitHub stats section -->
+
+## 📊 Github stats
+
+<!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DavidsDvm's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=DavidsDvm&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DavidsDvm's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidsDvm&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
+
+---
+
 
 <p align="center">
    <img src="https://github.com/ismail-cs/ismail-cs/blob/main/snake/github-contribution-grid-snake.svg" alt="snake">
