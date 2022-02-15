@@ -6,7 +6,7 @@
 
 <hr></hr>
 
-<img width="280" alt="Night Coding" src="https://github.com/ismail-cs/ismail-cs/blob/main/images/Night-Coding.gif" align="right"/>
+<img width="275" alt="Night Coding" src="https://github.com/ismail-cs/ismail-cs/blob/main/images/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
