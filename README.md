@@ -14,7 +14,7 @@
 
 ### About me 
 
-<img align='right' src="https://media.giphy.com/media/YbGLPiflpAjlF4eNu3/giphy.gif" width="426">
+<img align='right' src="https://media.giphy.com/media/YbGLPiflpAjlF4eNu3/giphy.gif" width="410">
 
 ```js
 document.write("Hello World");
