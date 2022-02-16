@@ -10,16 +10,16 @@
 ```js
 document.write("Hello World!");
 Developer dev = new Developer(ismail khalil);
-  const Sagar = {
-    pronouns: "he" | "his",
-    status: Student,
-    technologies:{
-        language: [Python, java, C++],
-        my_libraries: [CLI, Linux -> Ubuntu, AWS]
-    },
-    learning: [Linux, AWS],
-    like: [movies, music, cycling],
-    contact: ismail.k.aiub@gmail.com
+    const Sagar = {
+      pronouns: "he" | "his",
+      status: Student,
+      technologies:{
+            language: [ Python, java, C++ ],
+            my_libraries: [AWS, Linux --> Ubuntu, CLI ]
+      },
+        learning: [ Linux, AWS ],
+        like: [ movies, music, cycling ],
+        contact: ismail.k.aiub@gmail.com
 };
 
 if(succeed == false){
