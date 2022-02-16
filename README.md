@@ -1,11 +1,6 @@
 ![Profile views](https://gpvc.arturio.dev/ShahriarShafin?v=3)
 
-<h1 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://www.linkedin.com/in/ismail-khalil/">MD. Ismail Khalil</a></b>
-        </samp>
-</h1>
-
+# Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm [Ismail Khalil](https://www.linkedin.com/in/ismail-khalil/)
 
         
 
@@ -35,9 +30,7 @@ if(succeed == false){
     party();
 };
 ```
-
-
-
+<br/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -71,6 +64,7 @@ if(succeed == false){
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
+<br/>
 
 ### 📖 &nbsp;Learning now
 
@@ -83,7 +77,7 @@ if(succeed == false){
 
 <!-- GitHub stats section -->
 
-### 📊 Github stats
+### 📊 &nbsp; Github stats
 
 <!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
