@@ -2,7 +2,6 @@
 
 # Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm [Ismail Khalil](https://www.linkedin.com/in/ismail-khalil/)
 
-        
 
 ### About me 
 
@@ -31,13 +30,14 @@ if(succeed == false){
 };
 ```
 
+---
+
 <br/>
 
 
-<img width="275" alt="Night Coding" src="https://github.com/ismail-cs/ismail-cs/blob/main/images/Night-Coding.gif" align="right"/>
-
 ### 🛠 &nbsp;Tech Stack
 
+<img width="275" alt="Night Coding" src="https://github.com/ismail-cs/ismail-cs/blob/main/images/Night-Coding.gif" align="right"/>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
