@@ -30,11 +30,14 @@ if(succeed == false){
     party();
 };
 ```
+
 <br/>
+
+
+<img width="275" alt="Night Coding" src="https://github.com/ismail-cs/ismail-cs/blob/main/images/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
-<img width="275" alt="Night Coding" src="https://github.com/ismail-cs/ismail-cs/blob/main/images/Night-Coding.gif" align="right"/>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
