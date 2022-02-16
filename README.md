@@ -7,6 +7,8 @@
 </h1>
 
 
+        
+
 ### About me 
 
 <img align='right' src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="400">
@@ -37,7 +39,7 @@ if(succeed == false){
 
 
 
-## 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stack
 
 <img width="275" alt="Night Coding" src="https://github.com/ismail-cs/ismail-cs/blob/main/images/Night-Coding.gif" align="right"/>
 
@@ -70,7 +72,7 @@ if(succeed == false){
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
 
-## 📖 &nbsp;Learning now
+### 📖 &nbsp;Learning now
 
 - I’m currently learning **AWS & Linux**. <img width="10%" align="right" alt="Github Image" src="https://github.com/ismail-cs/ismail-cs/blob/main/images/tux-linux-penguin.gif?raw=true" /><br>
 - I like exploring **GNU/Linux**. <br>
@@ -81,7 +83,7 @@ if(succeed == false){
 
 <!-- GitHub stats section -->
 
-## 📊 Github stats
+### 📊 Github stats
 
 <!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
