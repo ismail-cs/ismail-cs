@@ -103,19 +103,19 @@ if(succeed == false){
 <table width="100" align='center'>
 <tr>
     <td align='center' width="60">
-        <a href="https://twitter.com/ismail__khalil_"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="60"></a>
+        <a href="https://twitter.com/ismail__khalil_"><img src="https://github.com/ismail-cs/ismail-cs/blob/main/icons/twitter.png"></a>
     </td>
     <td align='center' width="60">
-        <a href="https://www.instagram.com/ismail__khalil__/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"></a>
+        <a href="https://www.instagram.com/ismail__khalil__/"><img src="https://github.com/ismail-cs/ismail-cs/blob/main/icons/instagram.png"></a>
     </td>
     <td align='center' width="60">
-        <a href="https://www.linkedin.com/in/ismail-khalil/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
+        <a href="https://www.linkedin.com/in/ismail-khalil/"><img src="https://github.com/ismail-cs/ismail-cs/blob/main/icons/linkedin.png"></a>
     </td>
     <td align='center' width="60">
-        <a href="https://www.facebook.com/ismail.khalil.0"><img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504903.png?token=exp=1645011178~hmac=aa53415472a8ad7cff36ddce09a690f0" width="60"></a>
+        <a href="https://www.facebook.com/ismail.khalil.0"><img src="https://github.com/ismail-cs/ismail-cs/blob/main/icons/facebook.png"></a>
     </td>
     <td align='center' width="60">
-        <a href="https://codeforces.com/profile/rojo_c."><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
+        <a href="https://codeforces.com/profile/rojo_c."><img src="https://github.com/ismail-cs/ismail-cs/blob/main/icons/code-forces.png"></a>
     </td>
 </tr>
 </table>
