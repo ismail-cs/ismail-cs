@@ -70,7 +70,7 @@ if(succeed == false){
 
 <br/>
 
-### 📖 &nbsp;Learning now
+## 📖 &nbsp;Learning now
 
 - I’m currently learning **AWS & Linux**. <img width="10%" align="right" alt="Github Image" src="https://github.com/ismail-cs/ismail-cs/blob/main/images/tux-linux-penguin.gif?raw=true" /><br>
 - I like exploring **GNU/Linux**. <br>
