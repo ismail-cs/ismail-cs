@@ -10,7 +10,7 @@
 
 <img width="275" alt="Night Coding" src="https://github.com/ismail-cs/ismail-cs/blob/main/images/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -36,9 +36,11 @@
 
 ---
 
-- I’m currently learning **Flutter & WebDev**. <img width="10%" align="right" alt="Github Image" src="https://github.com/ismail-cs/ismail-cs/blob/main/images/tux-linux-penguin.gif?raw=true" /><br>
+## 📖 &nbsp;Learning now
+
+- I’m currently learning **AWS & Linux**. <img width="10%" align="right" alt="Github Image" src="https://github.com/ismail-cs/ismail-cs/blob/main/images/tux-linux-penguin.gif?raw=true" /><br>
 - I like exploring **GNU/Linux**. <br>
-- Ask me about **Pc building, Movies, or anything**. <br>
+- Ask me about **Linux Unhatched**. <br>
 - Find me on Telegram: **[Ismail Khalil](https://t.me/ismail_cs)**<br>
 
 ---
