@@ -79,9 +79,11 @@ if(succeed == false){
 
 ---
 
-<!-- GitHub stats section -->
 
-### 📊 &nbsp; Github stats
+
+<br/>
+
+## 📊 &nbsp; Github stats
 
 <!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
