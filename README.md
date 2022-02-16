@@ -97,6 +97,32 @@ if(succeed == false){
 
 ---
 
+<h3 align='center'><i>Social Media Handles</i></h3>
+<p align='center'>
+ 
+<table width="100" align='center'>
+<tr>
+    <td align='center' width="60">
+        <a href="https://twitter.com/ismail__khalil_"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="60"></a>
+    </td>
+    <td align='center' width="60">
+        <a href="https://www.instagram.com/ismail__khalil__/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"></a>
+    </td>
+    <td align='center' width="60">
+        <a href="https://www.linkedin.com/in/ismail-khalil/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
+    </td>
+    <td align='center' width="60">
+        <a href="https://www.facebook.com/ismail.khalil.0"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
+    </td>
+    <td align='center' width="60">
+        <a href="https://codeforces.com/profile/rojo_c."><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
+    </td>
+</tr>
+</table>
+
+</p>
+
+---
 
 <p align="center">
    <img src="https://github.com/ismail-cs/ismail-cs/blob/main/snake/github-contribution-grid-snake.svg" alt="snake">
