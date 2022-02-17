@@ -119,7 +119,7 @@ else{
         <a href="https://codeforces.com/profile/rojo_c."><img src="https://github.com/ismail-cs/ismail-cs/blob/main/icons/code-forces.png"></a>
     </td>
     <td align='center' width="60">
-        <a href="https://t.me/ismail_cs"><img src="https://github.com/ismail-cs/ismail-cs/blob/main/icons/code-forces.png"></a>
+        <a href="https://t.me/ismail_cs"><img src="https://github.com/ismail-cs/ismail-cs/blob/main/icons/telegram.png"></a>
     </td>
 </tr>
 </table>
