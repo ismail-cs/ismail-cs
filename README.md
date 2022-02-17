@@ -71,10 +71,11 @@ else{
 
 <br/>
 
-## 📖 &nbsp;Learning now
+## 📖 &nbsp;Learning
 
-- I’m currently learning **AWS & Linux**. <img width="10%" align="right" alt="Github Image" src="https://github.com/ismail-cs/ismail-cs/blob/main/images/tux-linux-penguin.gif?raw=true" /><br>
-- I like exploring **GNU/Linux**. <br>
+- learning **AWS & Linux**. 
+<img width="10%" align="right" alt="Github Image" src="https://github.com/ismail-cs/ismail-cs/blob/main/images/tux-linux-penguin.gif?raw=true" /><br>
+- exploring **GNU/Linux**. <br>
 - Ask me about **Linux Unhatched**. <br>
 - Find me on Telegram: **[Ismail Khalil](https://t.me/ismail_cs)**<br>
 
