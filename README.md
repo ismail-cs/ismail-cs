@@ -73,13 +73,13 @@ else{
 
 ## 📖 &nbsp;Learning
 
-- learning **AWS & Linux**. 
+- **cloud computing**
+  - AWS
 <img width="10%" align="right" alt="Github Image" src="https://github.com/ismail-cs/ismail-cs/blob/main/images/tux-linux-penguin.gif?raw=true" /><br>
-- exploring **GNU/Linux**. <br>
-- Ask me about **Linux Unhatched**. <br>
-- Find me on Telegram: **[Ismail Khalil](https://t.me/ismail_cs)**<br>
-
----
+- exploring **GNU/Linux**
+  - **Ubuntu**
+- Ask me about **Linux Unhatched**
+- Find me on Telegram: **[Ismail Khalil](https://t.me/ismail_cs)**
 
 
 
