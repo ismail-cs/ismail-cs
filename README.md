@@ -3,7 +3,7 @@
 # Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm [Ismail Khalil](https://www.linkedin.com/in/ismail-khalil/)
 
 
-### About me 
+### <i>About me</i>
 
 <img align='right' src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="400">
 
@@ -35,7 +35,7 @@ else{
 <br/>
 
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;<i>Tech Stack</i>
 
 
 <img width="275" alt="Night Coding" src="https://github.com/ismail-cs/ismail-cs/blob/main/images/Night-Coding.gif" align="right"/>
@@ -71,7 +71,7 @@ else{
 
 <br/>
 
-## 📖 &nbsp;Learning
+## 📖 &nbsp; <i>Learning</i>
 
 - **cloud computing**
   - AWS
@@ -85,7 +85,7 @@ else{
 
 <br/>
 
-## 📊 &nbsp; Github stats
+## 📊 &nbsp; <i>Github stats</i>
 
 <!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
