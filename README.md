@@ -3,8 +3,6 @@
 # Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm [Ismail Khalil](https://www.linkedin.com/in/ismail-khalil/)
 
 
-
-
 <h3 align='left'><i>Social Media Handles</i></h3>
 <p align="left">
 <table width="100" align='left'>
@@ -43,6 +41,14 @@
 
 </p>
 
+<br/>
+
+<br/>
+
+<br/>
+
+
+<br/>
 
 
 
