@@ -73,7 +73,6 @@
 - exploring **GNU/Linux**
   - **Shell Scripting**
   - **Ubuntu**
-  
 - Ask me about **Linux Unhatched**
 - Find me on Telegram: **[Ismail Khalil](https://t.me/ismail_cs)**
 
