@@ -2,39 +2,49 @@
 
 # Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm [Ismail Khalil](https://www.linkedin.com/in/ismail-khalil/)
 
-<h3 align='center'><i>Social Media Handles</i></h3>
-<p align='center'>
- 
-<table width="100" align='center'>
+
+
+
+<h3 align='left'><i>Social Media Handles</i></h3>
+<p align="left">
+<table width="100" align='left'>
 <tr>
-    <td align='center' width="60">
-        <a href="https://twitter.com/ismail__khalil_"><img src="https://github.com/ismail-cs/ismail-cs/blob/main/icons/twitter.png"></a>
-    </td>
-    <td align='center' width="60">
-        <a href="https://www.instagram.com/ismail__khalil__/"><img src="https://github.com/ismail-cs/ismail-cs/blob/main/icons/instagram.png"></a>
-    </td>
-    <td align='center' width="60">
-        <a href="https://www.linkedin.com/in/ismail-khalil/"><img src="https://github.com/ismail-cs/ismail-cs/blob/main/icons/linkedin.png"></a>
-    </td>
-    <td align='center' width="60">
-        <a href="https://www.facebook.com/ismail.khalil.0"><img src="https://github.com/ismail-cs/ismail-cs/blob/main/icons/facebook.png"></a>
-    </td>
-    <td align='center' width="60">
-        <a href="https://codeforces.com/profile/ismail00"><img src="https://github.com/ismail-cs/ismail-cs/blob/main/icons/code-forces.png"></a>
-    </td>
-    <td align='center' width="60">
-        <a href="https://www.hackerrank.com/ismail_k_aiub"><img src="https://github.com/ismail-cs/ismail-cs/blob/main/icons/hackerrank.png"></a>
-    </td>
-    <td align='center' width="60">
-        <a href="https://t.me/ismail_cs"><img src="https://github.com/ismail-cs/ismail-cs/blob/main/icons/telegram.png"></a>
-    </td>
  
+ <td>
+    <a href="https://twitter.com/ismail__khalil_"><img src="https://github.com/ismail-cs/ismail-cs/blob/main/icons/twitter.png" height="35" width="35" /></a>
+    </td>
+
+ <td>
+    <a href="https://www.instagram.com/ismail__khalil__/"><img src="https://github.com/ismail-cs/ismail-cs/blob/main/icons/instagram.png" height="35" width="35"       /></a>
+    </td>
+
+ <td>
+    <a href="https://www.linkedin.com/in/ismail-khalil/"><img src="https://github.com/ismail-cs/ismail-cs/blob/main/icons/linkedin.png" height="35" width="35" />     </a>
+    </td>
+
+ <td>
+    <a href="https://www.facebook.com/ismail.khalil.0"><img src="https://github.com/ismail-cs/ismail-cs/blob/main/icons/facebook.png" height="35" width="35" />       </a>
+    </td>
+
+ <td>
+    <a href="https://codeforces.com/profile/ismail00"><img src="https://github.com/ismail-cs/ismail-cs/blob/main/icons/code-forces.png" height="35" width="35" />     </a>
+    </td>
+
+ <td>
+    <a href="https://www.hackerrank.com/ismail_k_aiub"><img src="https://github.com/ismail-cs/ismail-cs/blob/main/icons/hackerrank.png" height="35" width="35" />     </a>
+    </td>
+
+ <td>
+    <a href="https://t.me/ismail_cs"><img src="https://github.com/ismail-cs/ismail-cs/blob/main/icons/telegram.png" height="35" width="35" /></a>
+    </td>
+
 </tr>
 </table>
 
 </p>
 
-<br/>
+
+
 
 
 ## 🛠 &nbsp;<i>Tech Stack</i>
