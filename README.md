@@ -29,8 +29,6 @@
         <a href="https://t.me/ismail_cs"><img src="https://github.com/ismail-cs/ismail-cs/blob/main/icons/telegram.png"></a>
     </td>
  
- https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg
- 
 </tr>
 </table>
 
