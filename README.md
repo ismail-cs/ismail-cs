@@ -23,8 +23,14 @@
         <a href="https://codeforces.com/profile/ismail00"><img src="https://github.com/ismail-cs/ismail-cs/blob/main/icons/code-forces.png"></a>
     </td>
     <td align='center' width="60">
+        <a href="https://www.hackerrank.com/ismail_k_aiub"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"></a>
+    </td>
+    <td align='center' width="60">
         <a href="https://t.me/ismail_cs"><img src="https://github.com/ismail-cs/ismail-cs/blob/main/icons/telegram.png"></a>
     </td>
+ 
+ https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg
+ 
 </tr>
 </table>
 
