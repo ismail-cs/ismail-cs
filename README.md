@@ -70,10 +70,11 @@
 ## 📖 &nbsp; <i>Learning</i>
 
 - **cloud computing**
-  - AWS
+  - **AWS**
 <img width="10%" align="right" alt="Github Image" src="https://github.com/ismail-cs/ismail-cs/blob/main/images/tux-linux-penguin.gif?raw=true" /><br>
 - exploring **GNU/Linux**
   - **Ubuntu**
+  - **Shell Scripting**
 - Ask me about **Linux Unhatched**
 - Find me on Telegram: **[Ismail Khalil](https://t.me/ismail_cs)**
 
