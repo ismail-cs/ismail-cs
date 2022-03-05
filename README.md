@@ -3,42 +3,12 @@
 # Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm [Ismail Khalil](https://www.linkedin.com/in/ismail-khalil/)
 
 
-### <i>About me</i>
-
-<img align='right' src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="400">
-
-```js
-document.write("Hello World!");
-Developer dev = new Developer(ismail khalil);
-    const Sagar = {
-      pronouns: "he" | "his",
-      status: Student,
-      technologies:{
-            language: [ Python, java, C++ ],
-            my_libraries: [AWS, Linux --> Ubuntu, CLI ]
-      },
-        learning: [ Linux, AWS ],
-        like: [ movies, music, cycling ],
-        contact: ismail.k.aiub@gmail.com
-};
-
-if(succeed == false){
-    tryagain();
-}
-else{
-    enjoy();
-};
-```
-
----
 
 <br/>
 
 
 ## 🛠 &nbsp;<i>Tech Stack</i>
 
-
-<img width="275" alt="Night Coding" src="https://github.com/ismail-cs/ismail-cs/blob/main/images/Night-Coding.gif" align="right"/>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
