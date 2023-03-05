@@ -29,7 +29,7 @@
     </td>
 
  <td>
-    <a href="https://www.hackerrank.com/ismail_k_aiub"><img src="https://github.com/ismail-cs/ismail-cs/blob/main/icons/hackerrank.png" height="35" width="35" />     </a>
+    <a href="https://www.hackerrank.com/ismail_00"><img src="https://github.com/ismail-cs/ismail-cs/blob/main/icons/hackerrank.png" height="35" width="35" />     </a>
     </td>
 
  <td>
