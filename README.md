@@ -33,7 +33,7 @@
     </td>
 
  <td>
-    <a href="https://t.me/ismail_cs"><img src="https://github.com/ismail-cs/ismail-cs/blob/main/icons/atcoder.svg" height="35" width="35" /></a>
+    <a href="https://atcoder.jp/users/ismail_00"><img src="https://github.com/ismail-cs/ismail-cs/blob/main/icons/atcoder.svg" height="35" width="35" /></a>
     </td>
 
 </tr>
