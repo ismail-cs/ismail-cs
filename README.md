@@ -83,15 +83,17 @@
 
 ## 📖 &nbsp; <i>Learning</i>
 
-- **cloud computing**
+- **Cloud Computing**
   - **AWS**
 <img width="10%" align="right" alt="Github Image" src="https://github.com/ismail-cs/ismail-cs/blob/main/images/tux-linux-penguin.gif?raw=true" /><br>
-- exploring **GNU/Linux**
+- **GNU/Linux**
   - **Shell Scripting**
   - **Red Hat**
-  - **Ubuntu**
-- Ask me about **Linux Unhatched**
-- Find me on Telegram: **[Ismail Khalil](https://t.me/ismail_cs)**
+- **DevOps**
+  - **Vagrant virtualization**
+  - **Docker**
+  - **CI / CD**
+<!-- - Find me on Telegram: **[Ismail Khalil](https://t.me/ismail_cs)**  -->
 
 
 
