@@ -97,9 +97,14 @@
 
 <br/>
 
+<!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
+
+
+<!--
+
 ## 📊 &nbsp; <i>Github stats</i>
 
-<!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
+
 <p align="center">
   <br/>
   <a href="https://github.com/ismail-cs/readme-stats"><img alt="DavidsDvm's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=DavidsDvm&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
@@ -107,7 +112,7 @@
   <br/>
   
 </p>
-
+//-->
 
 <p align="center">
    <img src="https://github.com/ismail-cs/ismail-cs/blob/main/snake/github-contribution-grid-snake.svg" alt="snake">
