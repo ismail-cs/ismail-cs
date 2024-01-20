@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/ShahriarShafin?v=3)
+<!-- ![Profile views](https://gpvc.arturio.dev/ShahriarShafin?v=3) -->
 
 # 👋 I'm [Ismail Khalil](https://www.linkedin.com/in/ismail-khalil/)
 
