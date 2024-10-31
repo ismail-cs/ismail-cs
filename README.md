@@ -23,7 +23,19 @@
  <td>
     <a href="https://www.facebook.com/profile.php?id=61550084984884"><img src="https://github.com/ismail-cs/ismail-cs/blob/main/icons/facebook.png" height="35" width="35" />       </a>
     </td>
+</tr>
+</table>
 
+<br/>
+
+<br/>
+
+<br/>
+
+<h3 align='left'><i>Coding Profile</i></h3>
+<p align="left">
+<table width="100" align='left'>
+<tr>
  <td>
     <a href="https://codeforces.com/profile/ismail00"><img src="https://github.com/ismail-cs/ismail-cs/blob/main/icons/code-forces.png" height="35" width="35" />     </a>
     </td>
@@ -36,11 +48,11 @@
     <a href="https://atcoder.jp/users/ismail_00"><img src="https://github.com/ismail-cs/ismail-cs/blob/main/icons/atcoder.svg" height="35" width="35" /></a>
     </td>
  <td>
-    <a href="https://leetcode.com/u/ismail_00/"><img src="https://github.com/ismail-cs/ismail-cs/blob/main/icons/atcoder.svg" height="35" width="35" /></a>
+    <a href="https://leetcode.com/u/ismail_00/"><img src="https://github.com/ismail-cs/ismail-cs/blob/main/icons/leetcode.svg" height="35" width="35" /></a>
     </td>
-
 </tr>
 </table>
+
 
 </p>
 
@@ -97,7 +109,7 @@
   - **Shell Scripting**
   - **Red Hat**
 - **DevOps**
-  - **Vagrant virtualization**
+  - **Kubernetes**
   - **Docker**
   - **CI / CD**
 <!-- - Find me on Telegram: **[Ismail Khalil](https://t.me/ismail_cs)**  -->
