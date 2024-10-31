@@ -35,6 +35,9 @@
  <td>
     <a href="https://atcoder.jp/users/ismail_00"><img src="https://github.com/ismail-cs/ismail-cs/blob/main/icons/atcoder.svg" height="35" width="35" /></a>
     </td>
+ <td>
+    <a href="https://leetcode.com/u/ismail_00/"><img src="https://github.com/ismail-cs/ismail-cs/blob/main/icons/atcoder.svg" height="35" width="35" /></a>
+    </td>
 
 </tr>
 </table>
